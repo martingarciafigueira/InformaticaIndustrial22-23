@@ -1,0 +1,15 @@
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\bin\Debug\net6.0\Ejercicio16.exe
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\bin\Debug\net6.0\Ejercicio16.deps.json
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\bin\Debug\net6.0\Ejercicio16.runtimeconfig.json
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\bin\Debug\net6.0\Ejercicio16.dll
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\bin\Debug\net6.0\Ejercicio16.pdb
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\obj\Debug\net6.0\Ejercicio16.csproj.AssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\obj\Debug\net6.0\Ejercicio16.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\obj\Debug\net6.0\Ejercicio16.AssemblyInfoInputs.cache
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\obj\Debug\net6.0\Ejercicio16.AssemblyInfo.cs
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\obj\Debug\net6.0\Ejercicio16.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\obj\Debug\net6.0\Ejercicio16.dll
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\obj\Debug\net6.0\refint\Ejercicio16.dll
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\obj\Debug\net6.0\Ejercicio16.pdb
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\obj\Debug\net6.0\Ejercicio16.genruntimeconfig.cache
+G:\Dropbox\Clases\Montecastelo\CS Robotica\Informática Industrial\Tema02 - Introducción a la programación\Ejercicios\Bloque 3\Ejercicio16\Ejercicio16\obj\Debug\net6.0\ref\Ejercicio16.dll
