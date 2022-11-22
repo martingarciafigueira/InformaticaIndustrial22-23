@@ -1,0 +1,15 @@
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\bin\Debug\net6.0\Ejercicio27.exe
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\bin\Debug\net6.0\Ejercicio27.deps.json
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\bin\Debug\net6.0\Ejercicio27.runtimeconfig.json
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\bin\Debug\net6.0\Ejercicio27.dll
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\bin\Debug\net6.0\Ejercicio27.pdb
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\obj\Debug\net6.0\Ejercicio27.csproj.AssemblyReference.cache
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\obj\Debug\net6.0\Ejercicio27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\obj\Debug\net6.0\Ejercicio27.AssemblyInfoInputs.cache
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\obj\Debug\net6.0\Ejercicio27.AssemblyInfo.cs
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\obj\Debug\net6.0\Ejercicio27.csproj.CoreCompileInputs.cache
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\obj\Debug\net6.0\Ejercicio27.dll
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\obj\Debug\net6.0\refint\Ejercicio27.dll
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\obj\Debug\net6.0\Ejercicio27.pdb
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\obj\Debug\net6.0\Ejercicio27.genruntimeconfig.cache
+C:\Users\javia\OneDrive\Escritorio\Clase\Programación\Ejercicio27\Ejercicio27\obj\Debug\net6.0\ref\Ejercicio27.dll
