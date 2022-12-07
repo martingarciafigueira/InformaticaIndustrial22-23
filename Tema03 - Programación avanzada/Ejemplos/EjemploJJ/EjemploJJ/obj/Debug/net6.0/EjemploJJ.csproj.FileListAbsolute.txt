@@ -1,0 +1,15 @@
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\bin\Debug\net6.0\EjemploJJ.exe
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\bin\Debug\net6.0\EjemploJJ.deps.json
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\bin\Debug\net6.0\EjemploJJ.runtimeconfig.json
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\bin\Debug\net6.0\EjemploJJ.dll
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\bin\Debug\net6.0\EjemploJJ.pdb
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\obj\Debug\net6.0\EjemploJJ.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\obj\Debug\net6.0\EjemploJJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\obj\Debug\net6.0\EjemploJJ.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\obj\Debug\net6.0\EjemploJJ.AssemblyInfo.cs
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\obj\Debug\net6.0\EjemploJJ.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\obj\Debug\net6.0\EjemploJJ.dll
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\obj\Debug\net6.0\refint\EjemploJJ.dll
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\obj\Debug\net6.0\EjemploJJ.pdb
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\obj\Debug\net6.0\EjemploJJ.genruntimeconfig.cache
+C:\Users\MARTIN\Desktop\EjemploJJ\EjemploJJ\obj\Debug\net6.0\ref\EjemploJJ.dll
